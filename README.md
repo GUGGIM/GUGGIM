@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there I'm Goopy👋
 
+<<<<<<< HEAD
 # Hi, I am Noahhh!
 
 <!--
@@ -16,3 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+=======
+## 안녕하세요. 저는 구김쓰..
+>>>>>>> f34ac8771ab976a714e10566a57256e12bf545c7
